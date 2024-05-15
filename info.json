@@ -1,0 +1,153 @@
+{
+    "chronic_deseases": {
+        "Diabetes": "Monitor blood sugar levels regularly and follow a balanced diet. Take medications as prescribed.",
+        "Hypertension": "Monitor blood pressure regularly, reduce salt intake, and engage in regular physical activity.",
+        "Asthma": "Avoid triggers such as smoke, dust, and pollen. Always carry your inhaler and follow your action plan.",
+        "Arthritis": "Engage in regular physical activity, maintain a healthy weight, and follow your treatment plan.",
+        "Chronic Obstructive Pulmonary Disease (COPD)": "Quit smoking, avoid air pollutants, and exercise regularly.",
+        "Heart Disease": "Follow a heart-healthy diet, exercise regularly, and take prescribed medications.",
+        "Cancer": "Follow your treatment plan, maintain a healthy lifestyle, and attend regular check-ups.",
+        "Chronic Kidney Disease (CKD)": "Manage blood pressure and blood sugar levels, follow a kidney-friendly diet.",
+        "Osteoporosis": "Ensure an adequate intake of calcium and vitamin D, engage in weight-bearing exercises.",
+        "Depression": "Seek professional help, engage in social activities, and maintain a healthy routine.",
+        "Alzheimer's Disease": "Stay mentally active, maintain social connections, and follow a healthy lifestyle.",
+        "Chronic Liver Disease": "Limit alcohol consumption, follow a balanced diet, and take medications as prescribed.",
+        "Epilepsy": "Take medications regularly, get enough sleep, and avoid triggers such as stress or flashing lights.",
+        "Chronic Migraine": "Identify triggers and avoid them, maintain a regular sleep schedule, and manage stress.",
+        "Rheumatoid Arthritis": "Follow a treatment plan prescribed by your rheumatologist, engage in regular exercise, and maintain a healthy weight.",
+        "Chronic Fatigue Syndrome": "Maintain a consistent sleep schedule, pace yourself, and practice stress-reduction techniques.",
+        "Crohn's Disease": "Follow a special diet, take medications as prescribed, and manage stress levels.",
+        "Ulcerative Colitis": "Follow a low-residue diet, takae prescribed medications, and manage stress through relaxation techniques.",
+        "Fibromyalgia": "Engage in low-impact exercise, practice stress management techniques, and ensure a good sleep routine.",
+        "Chronic Bronchitis": "Quit smoking, avoid air pollutants, and use inhalers as prescribed.",
+        "Polycystic Ovary Syndrome (PCOS)": "Manage weight through diet and exercise, take prescribed medications, and manage stress levels.",
+        "Multiple Sclerosis": "Follow a treatment plan, engage in physical therapy, and manage fatigue levels.",
+        "Parkinson's Disease": "Follow a medication schedule, engage in physical therapy, and maintain a balanced diet.",
+        "Hypothyroidism": "Take thyroid hormone replacement medication as prescribed and follow a healthy diet and exercise routine.",
+        "Chronic Pancreatitis": "Avoid alcohol and fatty foods, follow a low-fat diet, and take enzyme supplements as prescribed.",
+        "Interstitial Cystitis": "Avoid triggers such as certain foods and drinks, practice pelvic floor exercises, and manage stress.",
+        "Lupus": "Protect yourself from the sun, take prescribed medications, and manage stress levels.",
+        "Endometriosis": "Manage pain with medication, consider hormonal therapy, and maintain a healthy lifestyle.",
+        "Chronic Sinusitis": "Use saline nasal sprays, avoid triggers such as allergens, and consider nasal corticosteroids as prescribed."
+    },
+    "age_norms":{
+        "1":{
+            "min_height": 70,
+            "max_height": 90,
+            "min_weight": 7,
+            "max_weight": 13.5
+        },
+        "2": {
+            "min_height": 79,
+            "max_height": 95.2,
+            "min_weight": 9,
+            "max_weight": 16.5
+        },
+        "3": {
+            "min_height": 86,
+            "max_height": 106,
+            "min_weight": 10.3,
+            "max_weight": 20
+        },
+        "4": {
+            "min_height": 92,
+            "max_height": 114,
+            "min_weight": 11.5,
+            "max_weight": 23
+        },
+        "5": {
+            "min_height": 97.8,
+            "max_height": 122,
+            "min_weight": 14,
+            "max_weight": 26.5
+        },
+        "6": {
+            "min_height": 103,
+            "max_height": 129,
+            "min_weight": 15.3,
+            "max_weight": 30.6
+        },
+        "7": {
+            "min_height": 108,
+            "max_height": 136,
+            "min_weight": 16.8,
+            "max_weight": 35.5
+        },
+        "8": {
+            "min_height": 113,
+            "max_height": 142.5,
+            "min_weight": 18.5,
+            "max_weight": 42
+        },
+        "9": {
+            "min_height": 118,
+            "max_height": 148.8,
+            "min_weight": 20,
+            "max_weight": 49
+        },
+        "10": {
+            "min_height": 120.5,
+            "max_height": 155,
+            "min_weight": 22,
+            "max_weight": 57
+        },
+        "11": {
+            "min_height": 124,
+            "max_height": 161,
+            "min_weight": 24,
+            "max_weight": 64
+        },
+        "12": {
+            "min_height": 127.5,
+            "max_height": 167.5,
+            "min_weight": 26,
+            "max_weight": 70
+        },
+        "13": {
+            "min_height": 130,
+            "max_height": 176,
+            "min_weight": 28,
+            "max_weight": 76
+        },
+        "14": {
+            "min_height": 140,
+            "max_height": 184,
+            "min_weight": 31.4,
+            "max_weight": 84
+        },
+        "15": {
+            "min_height": 147,
+            "max_height": 190.5,
+            "min_weight": 35.5,
+            "max_weight": 92.5
+        },
+        "16": {
+            "min_height": 153,
+            "max_height": 193.5,
+            "min_weight": 40.5,
+            "max_weight": 97.2
+        },
+        "17": {
+            "min_height": 157,
+            "max_height": 195,
+            "min_weight": 45,
+            "max_weight": 99.5
+        },
+        "18": {
+            "min_height": 158,
+            "max_height": 196,
+            "min_weight": 48,
+            "max_weight": 101
+        }
+    },
+    "BMI" : {
+        "Underweight" : "Consult a doctor or registered dietitian: They can assess your individual situation and recommend a healthy weight gain plan that considers your overall health and goals.\n\nFocus on nutrient-rich foods: Include plenty of fruits, vegetables, whole grains, lean protein sources, and healthy fats in your diet.\n\nStrength training: Building muscle mass can help increase your weight in a healthy way.\n\nConsider underlying conditions: There might be underlying medical conditions causing weight loss. A doctor can help identify and address them.",
+        "Normal Weight": "Maintain a healthy lifestyle: Continue eating a balanced diet, getting regular exercise, and getting enough sleep.\n\nFocus on overall health: Aim for a healthy lifestyle that includes physical activity, stress management, and preventive healthcare.",
+        "Overweight": "Lifestyle changes: Small, sustainable changes to your diet and exercise routine can make a big difference.\n\nFocus on portion control: Be mindful of portion sizes and choose nutrient-dense foods.\n\nIncrease physical activity: Aim for at least 150 minutes of moderate-intensity exercise or 75 minutes of vigorous-intensity exercise per week.",
+        "Obese": "Consult a doctor or registered dietitian: They can develop a personalized weight management plan that addresses your unique needs and goals.\n\nFocus on healthy eating: Make gradual changes to your diet, like reducing sugary drinks and processed foods, and increasing fruits, vegetables, and whole grains.\n\nIncrease physical activity: Start slowly and gradually increase the intensity and duration of your workouts.\n\nConsider weight loss programs: Supervised weight loss programs can offer support and guidance."
+    },
+    "Heart rate" : {
+        "Bradycardia" : "Stay Active: Engage in regular, moderate exercise if approved by your doctor.\nEat Healthily: Maintain a balanced diet with plenty of fruits, vegetables, and whole grains.\nLimit Stimulants: Cut back on caffeine, nicotine, and other substances that may affect heart rate.\nManage Stress: Practice relaxation techniques like deep breathing or meditation.\nMonitor Symptoms: Keep track of any dizziness, fainting, or other symptoms, and report them to your doctor.\nFollow Medical Advice: Take prescribed medications and attend regular check-ups.\nWear Medical ID: Consider wearing identification that alerts others to your condition in case of emergency.\n",
+        "Tachycardia" : "Avoid Triggers: Identify and minimize triggers such as stress, caffeine, nicotine, and alcohol.\nStay Hydrated: Drink plenty of water to maintain hydration and support overall heart health.\nPractice Relaxation: Use relaxation techniques like deep breathing, meditation, or yoga to manage stress.\nLimit Intense Exercise: Avoid intense or strenuous exercise if it triggers tachycardia, and consult with your doctor for appropriate activity levels.\nMedication Adherence: Take prescribed medications as directed by your healthcare provider to help control heart rate.\nMonitor Symptoms: Keep track of any palpitations, chest pain, dizziness, or fainting episodes, and report them to your doctor.\nFollow-up Care: Attend regular follow-up appointments with your healthcare provider to monitor your heart health and adjust treatment as needed.\nEmergency Plan: Have a plan in place for managing episodes of tachycardia, including when to seek medical attention."
+    }
+}
