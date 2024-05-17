@@ -13,22 +13,6 @@ Health Track is a CRUD system that allows users to track their health using the 
 
 For a detailed overview of the Health Track system, please refer to the [Presentation](https://github.com/KALYS72/Health-Track/blob/master/Presentation.pdf).
 
-## Usage
-
-1. **Clone the Repository**: 
-    ```
-    git clone https://github.com/KALYS72/Health-Track.git
-    ```
-
-2. **Compile and Run**: 
-    ```
-    cd Health-Track
-    g++ -o health_track health_track.cpp
-    ./health_track
-    ```
-
-3. **Follow On-Screen Instructions**: Use the program to input health data, view advice, and perform CRUD operations.
-
 ## Additional Information
 
 - The health data is stored locally in a file named `patients.txt`.
