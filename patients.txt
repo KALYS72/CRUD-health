@@ -1,0 +1,13 @@
+[
+  {
+    "Age": 20,
+    "Chronic deseases": [
+      "Diabetes",
+      "Diabetes"
+    ],
+    "Heart rate": 31,
+    "Height": 180.0,
+    "Name": "Kalys",
+    "Weight": 110.0
+  }
+]
